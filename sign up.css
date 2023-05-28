@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url(img\ 8.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.bag{
+    position: absolute;
+    top: 30%;
+    left: 45%;
+    color: black;
+}
+.bag h1{
+    font-size: 45px;
+    border-bottom: 4px solid #ff7200;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.box{
+    width: 100%;
+    margin: 25px 0px;
+}
+.box input{
+    border: none;
+    background: none;
+    outline: none;
+    color: black;
+    width: 100%;
+    padding: 5px 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    border-bottom: 2px solid #ff7200;
+}
+.bottle{
+    margin: 5px 0px;
+    border: none;
+    position: absolute;
+    top: 70%;
+}
+.btn{
+    color: black;
+    cursor: pointer;
+    outline: none;
+    border: 2px solid #ff7200;
+    width: 40%;
+    background: none;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+    margin-left: 60px;
+    font-size: 20px;
+    padding: 10px 10px;
+    text-align: center;
+}
+.btn:hover{
+    color: #ff7200;
+    
+}
